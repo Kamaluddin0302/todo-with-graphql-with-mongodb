@@ -19,7 +19,7 @@
     "express": "^4.17.1",
     "express-graphql": "^0.9.0",
     "graphql": "^14.5.8",
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "mongoose": "^5.7.12",
     "nexmo": "^2.5.1",
     "supertest": "^4.0.2"
